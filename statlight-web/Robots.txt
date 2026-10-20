@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /http://statlight.in/resume/software-engineer.html
+Disallow: /http://statlight.in/index.html#contactform
+Allow: /http://www.statlight.in/
+Allow: /http://www.statlight.in/profile.html
+Allow: /http://www.statlight.in/enterpriseweb.html
+Allow: /http://www.statlight.in/career.html
+Allow: /http://www.statlight.in/enterprisemobility.html
+Allow: /http://www.statlight.in/services.html
+Allow: /http://www.statlight.in/leadtradex.html
+Allow: /http://www.statlight.in/expertise.html
+Allow: /http://www.statlight.in/frontaide.html
+Allow: /http://www.statlight.in/bzdesk.html
+Allow: /http://www.statlight.in/mobileservice.html
+Allow: /http://www.statlight.in/solutions.html
+Allow: /http://www.statlight.in/smartcity.html
+Allow: /http://www.statlight.in/contact.html

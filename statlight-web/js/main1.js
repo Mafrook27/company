@@ -1,0 +1,1 @@
+$(window).scroll(function(){if($(window).scrollTop()>400){$("#scrollUp").fadeIn(200);}else{$("#scrollUp").fadeOut(200);}});$('#scrollUp').click(function(){$('html, body').stop().animate({scrollTop:0},1500,'easeInOutExpo');});
